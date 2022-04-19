@@ -1,4 +1,4 @@
--- initial version of the pg_stat_activity report  
+-- initial Q version of the pg_stat_activity report  
 -- abasha new version to include state (ACT, idle, IiT, IitA, ffc, dis)
 
 -- active: The backend is executing a query.
