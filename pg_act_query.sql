@@ -1,5 +1,5 @@
--- initial Q version of the pg_stat_activity report  
--- abasha new version to include state (ACT, idle, IiT, IitA, ffc, dis)
+-- initial version of the pg_stat_activity report  
+-- stage new version to include state (ACT, idle, IiT, IitA, ffc, dis)
 
 -- active: The backend is executing a query.
 -- idle: The backend is waiting for a new client command.
